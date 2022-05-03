@@ -4,7 +4,6 @@ module.exports = {
     mode: 'development',
     entry: {
         index: './src/index.js',
-        galaxy: './src/galaxy.js'
     },
     output: {
         filename: '[name].bundle.js',
@@ -21,7 +20,7 @@ module.exports = {
     watch: true,
     devServer: {
         static: {
-            directory: path.join(__dirname, 'dist'),
+            directory: path.join(__dirname, './dist'),
         },
         compress: true,
         port: 8080,
