@@ -9,7 +9,7 @@
 ## - Uso (passo a passo):
 ### > Instalando:
 ```
-npm install <link>
+npm install <url>
 ```
 ### > instalando dependências:
 ```
