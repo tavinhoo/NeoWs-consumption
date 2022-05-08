@@ -11,7 +11,7 @@
 ```
 npm install <link>
 ```
-### > Dependências:
+### > instalando dependências:
 ```
 npm install
 ```
